@@ -1,16 +1,9 @@
 # Class & Attribute Noise Handling
 
 ## Paper Link
-https://www.sciencedirect.com/science/article/pii/S0164121221001904
 
 ## Paper Title
-Improving Test Case Selection by Handling Class and Attribute Noise
+Handling Label and Attribute Noise in Lines of Code to Enhance Quality Using Classification Techniques
 
-## Link of Code for Class / Annotation Noise Removal
-https://github.com/khaledwalidsabbagh/Annotation_Noise
-
-## Link of Code for Attribute Noise Removal
-https://github.com/khaledwalidsabbagh/Handling_Attribute_Noise_PANDA
-
-## Link of Alternate Datasets obtained from Author
+## Link of Alternate Datasets
 https://zenodo.org/record/6784988#.Y32_4nZBy3A
